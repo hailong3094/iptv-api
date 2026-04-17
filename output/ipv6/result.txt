@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-15 19:07:40,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
+2026-04-17 19:04:44,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
 
 央视频道,#genre#
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
