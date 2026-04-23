@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-21 19:16:38,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
+2026-04-23 19:17:10,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
 
 央视频道,#genre#
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
@@ -14,10 +14,10 @@ CCTV-14,https://iptv.catvod.com/live.php?id=cctv14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
+CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=cctv15$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15$订阅源
