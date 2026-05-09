@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hailong3094/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中央电视台1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中央电视台1台.png" group-title="🕘️更新时间",2026-05-07 19:54:26
+#EXTINF:-1 tvg-name="中央电视台1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中央电视台1台.png" group-title="🕘️更新时间",2026-05-09 19:04:12
 https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681df5ec1922b77d612bf548b5e32ff4626a92ddf4935a6d91268da66b6f205ad0ad05a3e8f3df71e61d2f93679ac0c9ce72edcb607da33c0dedc1b5f60835ba726e273f9b$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681df5ec1922b77d612bf548b5e32ff4626a92ddf4935a6d91268da66b6f205ad0ad05a3e8f3df71e61d2f93679ac0c9ce72edcb607da33c0dedc1b5f60835ba726e273f9b$订阅源
@@ -235,10 +235,6 @@ https://www.freetv.top/migu/947472502.m3u8?migutoken=61e4fd9bf58ef5793a154534fc3
 https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 https://www.freetv.top/migu/947472502.m3u8?migutoken=b49395c0adad3f977a69d9555b7ec0e60a9f6076a9bd17687472774c39f5e60c68b55ab46fdf0d73b68a871b71b438163c9ae6604499693eb260ed04ebe98df3f12124410b199e0741f3429b11$订阅源
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
@@ -255,6 +251,8 @@ https://www.freetv.top/migu/947472500.m3u8?migutoken=18d6d17bc9f6d0621b56e251449
 https://www.freetv.top/migu/947472500.m3u8?migutoken=a292c218f577586de197c309c2802e2876a0c4d88876e3c12af01684483503dd1c1a3e2137ff3bfffa8d3dc6b0d8e5b95ad98934693c2ffcc05ef7f5b37e8237aa9691b4fcb6ce0268d42fde1d$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 https://www.freetv.top/migu/947472500.m3u8?migutoken=3ea6f853b75f0ffefb45361abd4f4afde99a41c67eb1d480a3e4e1d7fb1a0dd6f93e6011475330b929d27f5b3fed5ab892298676a54c05a9741d9a11dc442899f4101d60bec353f2a25c1c2c78$订阅源
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://gd202.tv1288.xyz/tsfile/live/1020_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 https://gd202.tv1288.xyz/tsfile/live/1020_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
