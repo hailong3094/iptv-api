@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hailong3094/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中央电视台1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中央电视台1台.png" group-title="🕘️更新时间",2026-05-19 20:49:27
+#EXTINF:-1 tvg-name="中央电视台1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中央电视台1台.png" group-title="🕘️更新时间",2026-05-21 20:52:20
 https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681df5ec1922b77d612bf548b5e32ff4626a92ddf4935a6d91268da66b6f205ad0ad05a3e8f3df71e61d2f93679ac0c9ce72edcb607da33c0dedc1b5f60835ba726e273f9b$订阅源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 https://www.freetv.top/migu/641886773.m3u8?migutoken=d79923540b82c440681df5ec1922b77d612bf548b5e32ff4626a92ddf4935a6d91268da66b6f205ad0ad05a3e8f3df71e61d2f93679ac0c9ce72edcb607da33c0dedc1b5f60835ba726e273f9b$订阅源
